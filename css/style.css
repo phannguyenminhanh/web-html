@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    line-height: 1.5;
+}
+html{
+    scroll-behavior: smooth;
+}
+.w3-bar{
+    background-color: black;
+    padding: 10px;
+}
+.w3-bar-item{
+    color:white;
+    padding: 10px 20px;
+}
+.w3-bar-item:hover{
+    background-color: #ccc;
+    color:gray;
+}
+#home{
+    max-width: 980px;
+    margin: auto;
+}
